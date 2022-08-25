@@ -1,3 +1,5 @@
+![toy-blocks](https://github.com/arturguimaraes/toy-blocks/blob/main/src/assets/img/print1.PNG?raw=true)
+
 # Toy Blocks
 
 ## Installation
