@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/toy-blocks/static/css/main.9d13315d.chunk.css",
-    "main.js": "/toy-blocks/static/js/main.4f98b890.chunk.js",
-    "main.js.map": "/toy-blocks/static/js/main.4f98b890.chunk.js.map",
+    "main.js": "/toy-blocks/static/js/main.44b60e5f.chunk.js",
+    "main.js.map": "/toy-blocks/static/js/main.44b60e5f.chunk.js.map",
     "runtime-main.js": "/toy-blocks/static/js/runtime-main.07c09da2.js",
     "runtime-main.js.map": "/toy-blocks/static/js/runtime-main.07c09da2.js.map",
     "static/js/2.0e269af0.chunk.js": "/toy-blocks/static/js/2.0e269af0.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.07c09da2.js",
     "static/js/2.0e269af0.chunk.js",
     "static/css/main.9d13315d.chunk.css",
-    "static/js/main.4f98b890.chunk.js"
+    "static/js/main.44b60e5f.chunk.js"
   ]
 }
