@@ -24,7 +24,11 @@ Each node has many blocks and the blocks for each node are returned from the blo
 Currently the application is getting the status for each node and updating the state. We would like you to retrieve the blocks from the endpoint, place them in the state and render them into a list that matches the design.
 
 ## Acceptance criteria:
+
 1. Blocks are displayed when opening up the card
 2. Loading, error, empty states are displayed when appropriate
 3. Tests pass and coverage has been added to cover the changes
 4. Implementation matches the design
+
+## Tests
+1. `npm run test`
