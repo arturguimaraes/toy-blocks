@@ -1,15 +1,17 @@
+# Toy Blocks
+
 ![toy-blocks](https://github.com/arturguimaraes/toy-blocks/blob/main/src/assets/img/print1.PNG?raw=true)
 
-# Toy Blocks
+## Live Application
+
+Click [here](https://arturguimaraes.github.io/toy-blocks/) to go to the application.
 
 ## Installation
 
-1. `git clone repo`
-2. `cd toy-blocks
-3. `nvm use`
-4. `npm i`
-5. `npm start`
-6. `npm test`
+1. `git clone https://github.com/arturguimaraes/toy-blocks.git`
+2. `cd toy-blocks`
+3. `npm i`
+4. `npm start`
 
 ## Introduction
 
